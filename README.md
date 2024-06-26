@@ -1,12 +1,4 @@
+# ! Hola, mi nombre es Pablo 👋
 - 👋 Hi, I’m @Pablo06Casta
 - 👀 I’m interested in bádminton
 - 🌱 I’m currently learning tecnology
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Pablo06Casta/Pablo06Casta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
